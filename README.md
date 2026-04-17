@@ -21,10 +21,10 @@ https://face-recognition-attendance-hpc54qx3alfa4gp6hy74ry.streamlit.app/
 
 ## 📷 App Screenshots
 ### Main Page
-![Main Page](home.png)
+![Main Page](home.jpng)
 
 ### Attendance Table
-![Attendance](attendance.png)
+![Attendance](attendance.jpng)
 
 
 ## 💡 How It Works
