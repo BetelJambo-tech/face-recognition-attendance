@@ -20,7 +20,11 @@ A real-time face recognition system that automatically detects and records atten
 https://face-recognition-attendance-hpc54qx3alfa4gp6hy74ry.streamlit.app/ 
 
 ## 📷 App Screenshots
+### Main Page
+![Main Page](home.png)
 
+### Attendance Table
+![Attendance](attendance.png)
 
 
 ## 💡 How It Works
